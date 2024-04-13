@@ -32,3 +32,5 @@ git config user.email
 git config user.name
 
 git checkout main
+
+git branch -d develop
