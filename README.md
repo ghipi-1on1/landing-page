@@ -29,4 +29,6 @@ git push
 
 git config user.email
 
+git config user.name
+
 Make develop branch
