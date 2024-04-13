@@ -27,4 +27,4 @@ git commit -m 'Modified readme.md'
 
 git push
 
-Tests
+git config user.email
